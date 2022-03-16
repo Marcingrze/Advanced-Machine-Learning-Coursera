@@ -70,7 +70,7 @@ def reset_tf_session():
     if curr_session is not None:
         curr_session.close()
     # reset graph
-    K.clear_session()
+    # K.clear_session()
     # create new session
     config = tf.ConfigProto()
     config.gpu_options.allow_growth = True
