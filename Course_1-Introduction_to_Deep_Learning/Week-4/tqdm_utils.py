@@ -49,7 +49,7 @@ class SimpleTqdm():
 
 def use_simple_tqdm():
     try:
-        import google.colab
+        # import google.colab
         import os
         return not bool(int(os.environ.get("EXPERIMENTAL_TQDM", "0")))
     except ImportError:
