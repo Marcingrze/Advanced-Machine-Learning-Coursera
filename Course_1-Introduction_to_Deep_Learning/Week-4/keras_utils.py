@@ -75,5 +75,5 @@ def reset_tf_session():
     config = tf.ConfigProto()
     config.gpu_options.allow_growth = True
     s = tf.InteractiveSession(config=config)
-    K.set_session(s)
+    # K.set_session(s)
     return s
