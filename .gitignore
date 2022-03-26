@@ -23,3 +23,6 @@ Course_1-Introduction_to_Deep_Learning/Week-6/Final_Project/Image_Captioning_Fin
 Course_1-Introduction_to_Deep_Learning/Week-6/__pycache__/download_utils.cpython-36.pyc
 Course_1-Introduction_to_Deep_Learning/Week-6/__pycache__/grading.cpython-36.pyc
 Course_1-Introduction_to_Deep_Learning/Week-6/__pycache__/tqdm_utils.cpython-36.pyc
+*.pyc
+*.zip
+*.pickle
