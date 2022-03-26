@@ -20,3 +20,6 @@ Course_1-Introduction_to_Deep_Learning/readonly/week6/val2014_sample.zip
 Course_1-Introduction_to_Deep_Learning/readonly/week6/val_img_embeds.pickle
 Course_1-Introduction_to_Deep_Learning/readonly/week6/val_img_fns.pickle
 Course_1-Introduction_to_Deep_Learning/Week-6/Final_Project/Image_Captioning_Final_Project/__pycache__/tqdm_utils.cpython-36.pyc
+Course_1-Introduction_to_Deep_Learning/Week-6/__pycache__/download_utils.cpython-36.pyc
+Course_1-Introduction_to_Deep_Learning/Week-6/__pycache__/grading.cpython-36.pyc
+Course_1-Introduction_to_Deep_Learning/Week-6/__pycache__/tqdm_utils.cpython-36.pyc
